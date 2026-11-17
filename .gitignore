@@ -1,0 +1,9 @@
+# Manuscript, data analysis, figures and the grids they use: kept out of the repository
+manuscript/
+
+.ipynb_checkpoints/
+__pycache__/
+
+# Local assistant and editor files
+.claude/
+.vscode/

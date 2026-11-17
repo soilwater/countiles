@@ -1,0 +1,86 @@
+[
+ {
+  "name": "ppt",
+  "label": "Annual precipitation",
+  "units": "mm",
+  "digits": 0,
+  "min": 179.0,
+  "max": 1655.0,
+  "colors": [
+   "#f7fbff",
+   "#d6e6f4",
+   "#abd0e6",
+   "#6aaed6",
+   "#3787c0",
+   "#105ba4",
+   "#08306b"
+  ],
+  "image": "data/ppt.png",
+  "bounds": [
+   [
+    24.06488,
+    -125.02083
+   ],
+   [
+    49.9375,
+    -66.48264
+   ]
+  ]
+ },
+ {
+  "name": "tmean",
+  "label": "Mean air temperature",
+  "units": "°C",
+  "digits": 1,
+  "min": 3.0,
+  "max": 22.2,
+  "colors": [
+   "#313695",
+   "#74add1",
+   "#e0f3f8",
+   "#ffffbf",
+   "#fdae61",
+   "#f46d43",
+   "#a50026"
+  ],
+  "image": "data/tmean.png",
+  "bounds": [
+   [
+    24.06488,
+    -125.02083
+   ],
+   [
+    49.9375,
+    -66.48265
+   ]
+  ]
+ },
+ {
+  "name": "sand",
+  "label": "Sand content, 0-25 cm",
+  "units": "%",
+  "digits": 0,
+  "min": 8.0,
+  "max": 89.0,
+  "colors": [
+   "#f7fcf0",
+   "#e0f3db",
+   "#ccebc5",
+   "#fee391",
+   "#fec44f",
+   "#ec7014",
+   "#993404"
+  ],
+  "image": "data/sand.png",
+  "bounds": [
+   [
+    22.87012,
+    -127.89691
+   ],
+   [
+    51.60671,
+    -65.34612
+   ]
+  ]
+ }
+]
